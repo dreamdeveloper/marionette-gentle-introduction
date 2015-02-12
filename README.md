@@ -7,3 +7,7 @@ Even if you don't have the book, you can learn a lot from looking through the co
 If you're interested, you can view a sample of the book at http://samples.leanpub.com/marionette-gentle-introduction-sample.pdf
 
 The code in this repository uses Marionette > 2.0, but there's a marionette-pre-v2 branch that uses an older version.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dreamdeveloper/marionette-gentle-introduction/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
